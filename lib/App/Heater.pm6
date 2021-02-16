@@ -4,7 +4,7 @@
 #
 use v6.c;
 
-class App::Heater:ver<0.0.1>:auth<cpan:JMASLAK> {
+class App::Heater:ver<0.0.2>:auth<cpan:JMASLAK> {
     use P5getpriority;
 
     has UInt:D $.processes is rw = $*KERNEL.cpu-cores;
