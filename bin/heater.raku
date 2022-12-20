@@ -65,6 +65,6 @@ Joelle Maslak C<<jmaslak@antelope.net>>
 
 Licensed under the same terms as Raku.
 
-Copyright © 2021 by Joelle Maslak
+Copyright © 2021-2022 by Joelle Maslak
 
 =end POD
